@@ -21,7 +21,7 @@ To get started with GestureVolumeControl, follow these steps:
 1. Ensure you have a webcam connected to your computer.
 2. Clone this repository to your local machine.
 ``` bash
-git clone 
+git clone https://github.com/sri-hack1/GestureVolumeControl.git
 ```
 4. Install the required dependencies by running:
 ``` bash
